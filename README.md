@@ -1,4 +1,4 @@
 thesis-template-word
 ====================
 
-Thesis template in Microsoft Word.
+Thesis template for Microsoft Word documents.
